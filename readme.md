@@ -40,7 +40,7 @@
 - [solution in JS](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/Day07/object.js)
 - [solution in TS]()
 ### Day08
-- [Challenge]()
+- [Challenge](https://courses.chaicode.com/learn/home/30-days-of-Javascript-challenge/30-days-javascript-challenge/section/515627/lesson/3197148)
 <!-- - challenge img  -->
 ![Day08 problem Statement]("a title")
 - [solution in JS]()
