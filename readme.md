@@ -42,8 +42,8 @@
 ### Day08
 - [Challenge](https://courses.chaicode.com/learn/home/30-days-of-Javascript-challenge/30-days-javascript-challenge/section/515627/lesson/3197148)
 <!-- - challenge img  -->
-![Day08 problem Statement]("a title")
-- [solution in JS]()
+![Day08 problem Statement](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/assets/Day08%20ES%5E%20feature.png "a title")
+- [solution in JS](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/Day08/ES6feature.js)
 - [solution in TS]()
 
 ### Day09
