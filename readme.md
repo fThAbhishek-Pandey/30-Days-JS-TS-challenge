@@ -49,8 +49,8 @@
 ### Day09
 - [Challenge --> DOM Manipulation](https://courses.chaicode.com/learn/home/30-days-of-Javascript-challenge/30-days-javascript-challenge/section/515627/lesson/3197157)
 <!-- - challenge img  -->
-![Day09 problem Statement]( "DOM Manipulation")
-- [solution in JS]()
+![Day09 problem Statement](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/assets/Day09%20Dom%20Manipulation.png "DOM Manipulation")
+- [solution in JS](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/Day09/DomManipulation.js)
 - [solution in TS]()
 ### Day10
 - [Challenge]()
