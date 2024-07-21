@@ -47,9 +47,9 @@
 - [solution in TS]()
 
 ### Day09
-- [Challenge]()
+- [Challenge --> DOM Manipulation](https://courses.chaicode.com/learn/home/30-days-of-Javascript-challenge/30-days-javascript-challenge/section/515627/lesson/3197157)
 <!-- - challenge img  -->
-![Day09 problem Statement]( "a title")
+![Day09 problem Statement]( "DOM Manipulation")
 - [solution in JS]()
 - [solution in TS]()
 ### Day10
