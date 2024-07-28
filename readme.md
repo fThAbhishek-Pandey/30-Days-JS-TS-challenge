@@ -53,10 +53,10 @@
 - [solution in JS](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/Day09/DomManipulation.js)
 - [solution in TS]()
 ### Day10
-- [Challenge]()
+- [Challenge](https://courses.chaicode.com/learn/home/30-days-of-Javascript-challenge/30-days-javascript-challenge/section/515627/lesson/3197174)
 <!-- - challenge img  -->
-![Day10 problem Statement]( "a title")
-- [solution in JS]()
+![Day10 problem Statement]( https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/blob/main/assets/Day10.png "a title")
+- [solution in JS](https://github.com/fThAbhishek-Pandey/30-Days-JS-TS-challenge/tree/main/Day10)
 - [solution in TS]()
 
 ### Day11
